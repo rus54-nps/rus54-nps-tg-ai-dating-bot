@@ -5,4 +5,5 @@ python-telegram-bot==21.4
 requests>=2.32.0
 python-dotenv>=1.0.0
 aiogram==2.21
+aiohttp>=3.9.0
 PyYAML==6.0.3
