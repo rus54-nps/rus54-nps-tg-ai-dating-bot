@@ -3,4 +3,5 @@ python-telegram-bot==21.4
 requests
 python-dotenv
 aiogram==2.21
-pyyaml==5.4.1
+pyyaml==5.4.1 --no-binary :all:
+cython
