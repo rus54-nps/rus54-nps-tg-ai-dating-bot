@@ -16,7 +16,7 @@ from services.greetings import get_greeting
 from datetime import datetime, timedelta
 
 # Лимит сообщений в день на одного пользователя
-DAILY_MESSAGE_LIMIT = 3
+DAILY_MESSAGE_LIMIT = 15
 # Храним количество сообщений и дату последнего обновления
 _user_daily_stats = {}
 user_profiles = {}
