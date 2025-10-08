@@ -6,7 +6,7 @@ def get_main_keyboard():
     return keyboard
 
 def get_girl_selection_keyboard():
-    # Кнопки для выбора двух бесплатных девушек
+    # Кнопки для выбора бесплатных девушек
     girls = ["София", "Вика"]
     
     keyboard = InlineKeyboardMarkup(row_width=1)
