@@ -1,9 +1,8 @@
 setuptools>=65.5.0
 pip>=23.0.0
-pytz
+pytz>=2023.3
 python-telegram-bot==21.4
-requests
-python-dotenv
+requests>=2.32.0
+python-dotenv>=1.0.0
 aiogram==2.21
-pyyaml==5.4.1 --no-binary :all:
-cython
+pyyaml>=6.1
