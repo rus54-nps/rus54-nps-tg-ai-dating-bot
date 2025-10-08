@@ -1,1 +1,4 @@
 pytz
+python-telegram-bot==21.4
+requests
+python-dotenv
