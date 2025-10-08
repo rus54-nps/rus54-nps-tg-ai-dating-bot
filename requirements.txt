@@ -1,3 +1,5 @@
+setuptools>=65.5.0
+pip>=23.0.0
 pytz
 python-telegram-bot==21.4
 requests
